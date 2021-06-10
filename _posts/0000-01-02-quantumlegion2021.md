@@ -1,5 +1,6 @@
 ---
-layout: slide
-title: "Welcome to our second slide"
+layout:slide
+title:**"Welcome to our second slide"**
 ---
-This is my second Slide
+![Github Logo](/images/logo.png)
+
